@@ -9,6 +9,7 @@
 # misc
 proj/
 
+.direnv/
 
 # Library tests
 bindings/python/.venv*
